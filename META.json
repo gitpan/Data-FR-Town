@@ -36,7 +36,7 @@
          }
       }
    },
-   "release_status" : "stable",
+   "release_status" : "testing",
    "resources" : {
       "bugtracker" : {
          "web" : "https://github.com/arhuman/Data-FR-Town/issues"
@@ -45,5 +45,5 @@
          "url" : "https://github.com/arhuman/Data-FR-Town"
       }
    },
-   "version" : "0.02"
+   "version" : "0_03"
 }
